@@ -36,7 +36,7 @@ public class IT24100822Lab5Q2
     
      else
      {
-       System.out.print("no prize");
+       System.out.print("input must be a number 0 or greater");
      }
 
   }
