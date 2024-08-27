@@ -37,9 +37,10 @@ public class IT24100822Lab5Q1
      {
         min=no3;
      }
+     System.out.print("User entered numbers are:"+ no1 + " " + no2+ " " + no3);
      System.out.print("max is" +max);
      System.out.print("min is" +min);
-
+     
   }
 }
      
